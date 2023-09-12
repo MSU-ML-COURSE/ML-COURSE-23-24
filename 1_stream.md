@@ -6,7 +6,6 @@
 | Дата | Номер | Тема | Презентация | Практическое задание |
 | :---: | :---: | --- | --- | --- |
 | 04.09.2023 | 1 | Введение в машинное обучение. Контроль качества и выбор модели | [Слайды](https://github.com/victorkitov/ML/blob/main/010-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf) | ¯\\\_(ツ)\_/¯ |
-|  |  | Jupyter notebook, python, numpy, matplotlib, pandas, scikit-learn |  | Основы Python  |
 | 11.09.2023 | 2 | Метрические алгоритмы | [Слайды](https://github.com/victorkitov/ML/blob/main/020-%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B.pdf) | Numpy, pandas, matplotlib (22.09.2022) |
 | 18.09.2023 | 3 | Линейная регрессия и ее обобщения. | [Слайды](https://github.com/victorkitov/ML/blob/main/030-Linear%20regression%20and%20extensions.pdf) | Тест №1 (30.09.2022) |
 | 25.10.2023 | 4 | <ul><li>Стохастический градиентный спуск</li><li>Линейная классификация</li></ul> | <ul><li>[Слайды](https://github.com/victorkitov/ML/blob/main/035-Stochastic%20gradient%20descent.pdf)</li><li>[Слайды](https://github.com/victorkitov/ML/blob/main/040-Linear%20classification.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
