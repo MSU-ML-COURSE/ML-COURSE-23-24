@@ -7,9 +7,9 @@
 [Презентация с оцениванием](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/files/Оценивание_курс.pdf)
 
 ### Материалы
- * [Первый поток (В.В. Китов)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/1_stream.md)
- * [Второй поток (К.В. Воронцов)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/2_stream.md)
- * [Третий поток (М.И. Петровский)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/3_stream.md)
+ * [Первый поток (В.В. Китов)](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/1_stream.md)
+ * [Второй поток (К.В. Воронцов)](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/2_stream.md)
+ * [Третий поток (М.И. Петровский)](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/3_stream.md)
 
 Связаться с нами можно по почте ml.cmc@mail.ru
 
