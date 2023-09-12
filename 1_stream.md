@@ -25,16 +25,16 @@
 ### Весна
 | Дата | Номер | Тема | Презентация | Практическое задание |
 | :---: | :---: | --- | --- | --- |
-| 13.02.2023 | 15 | Кластеризация K-представителями | [Слайды](https://github.com/victorkitov/ML/blob/main/160-Clustering%20K%20representatives.pdf) | Деревья решений (10.02.2023) |
-| 20.02.2023 | 16 | Продвинутая кластеризация | [Слайды](https://github.com/victorkitov/ML/blob/main/170-Advanced%20clustering.pdf) | ¯\\\_(ツ)\_/¯ |
-| 27.02.2023 | 17 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | Кластеризация (03.03.2023) |
-| 06.03.2023 | 18 | Смеси распределений | [Слайды](https://github.com/victorkitov/ML/blob/main/190-Mixture%20density%20models.pdf) | ¯\\\_(ツ)\_/¯ |
-| 13.03.2023 | 19 | EM-алгоритм | [Слайды](https://github.com/victorkitov/ML/blob/main/200-EM%20algorithm.pdf) | ¯\\\_(ツ)\_/¯ |
-| 20.03.2023 | 20 | Обнаружение аномалий | [Слайды](https://github.com/victorkitov/ML/blob/main/210-Outlier%20detection.pdf) | Градиентный бустинг (24.03.2023) |
-| 27.03.2023 | 21 | Частичное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/220-Semi-supervised%20learning.pdf) | ¯\\\_(ツ)\_/¯ |
-| 03.04.2023 | 22 | Ранжирование (задача, признаки) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) | Частичное обучение (09.04.2023) |
-| 10.04.2023 | 23 | Ранжирование (методы, меры качества) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) | Контест (14.04.2023) |
-| 17.04.2023 | 24 | Сингулярное разложение. Рекомендательные системы 1 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) | ¯\\\_(ツ)\_/¯ |
-| 24.04.2023 | 25 | Рекомендательные системы 2 | [Слайды](https://github.com/victorkitov/ML/blob/main/250-Recommender%20systems.pdf) | ¯\\\_(ツ)\_/¯ |
-| 15.05.2023 | 26 | Активное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/260-Active%20learning.pdf) | ¯\\\_(ツ)\_/¯ |
+| 13.02.2024 | 15 | Кластеризация K-представителями | [Слайды](https://github.com/victorkitov/ML/blob/main/160-Clustering%20K%20representatives.pdf) | Деревья решений (10.02.2023) |
+| 20.02.2024 | 16 | Продвинутая кластеризация | [Слайды](https://github.com/victorkitov/ML/blob/main/170-Advanced%20clustering.pdf) | ¯\\\_(ツ)\_/¯ |
+| 27.02.2024 | 17 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | Кластеризация (03.03.2023) |
+| 06.03.2024 | 18 | Смеси распределений | [Слайды](https://github.com/victorkitov/ML/blob/main/190-Mixture%20density%20models.pdf) | ¯\\\_(ツ)\_/¯ |
+| 13.03.2024 | 19 | EM-алгоритм | [Слайды](https://github.com/victorkitov/ML/blob/main/200-EM%20algorithm.pdf) | ¯\\\_(ツ)\_/¯ |
+| 20.03.2024 | 20 | Обнаружение аномалий | [Слайды](https://github.com/victorkitov/ML/blob/main/210-Outlier%20detection.pdf) | Градиентный бустинг (24.03.2023) |
+| 27.03.2024 | 21 | Частичное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/220-Semi-supervised%20learning.pdf) | ¯\\\_(ツ)\_/¯ |
+| 03.04.2024 | 22 | Ранжирование (задача, признаки) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) | Частичное обучение (09.04.2023) |
+| 10.04.2024 | 23 | Ранжирование (методы, меры качества) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) | Контест (14.04.2023) |
+| 17.04.2024 | 24 | Сингулярное разложение. Рекомендательные системы 1 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) | ¯\\\_(ツ)\_/¯ |
+| 24.04.2024 | 25 | Рекомендательные системы 2 | [Слайды](https://github.com/victorkitov/ML/blob/main/250-Recommender%20systems.pdf) | ¯\\\_(ツ)\_/¯ |
+| 15.05.2024 | 26 | Активное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/260-Active%20learning.pdf) | ¯\\\_(ツ)\_/¯ |
 
