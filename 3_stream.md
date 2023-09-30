@@ -7,7 +7,7 @@
 | :---: | :---: | --- | --- | --- |
 | 06.09.2022 | 1 | Введение в ML | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML1-intro.pdf) | ¯\\\_(ツ)\_/¯ |
 | 13.09.2022 | 2 | Python | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML2-Python.pdf) | ¯\\\_(ツ)\_/¯ |
-| 20.09.2022 | 3 | | | ¯\\\_(ツ)\_/¯ |
+| 20.09.2022 | 3 | Признаковое пространство и задача прогнзирования| [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML3-Predict.pdf) | ¯\\\_(ツ)\_/¯ |
 
 
 
