@@ -10,6 +10,7 @@
  * [Первый поток (В.В. Китов)](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/1_stream.md)
  * [Второй поток (К.В. Воронцов)](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/2_stream.md)
  * [Третий поток (М.И. Петровский)](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/3_stream.md)
+ * [Задания](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/tasks.md)
 
 Связаться с нами можно по почте ml.cmc@mail.ru
 
