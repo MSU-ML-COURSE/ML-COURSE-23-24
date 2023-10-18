@@ -11,6 +11,6 @@
 | 27.09.2023 | 4 | Метрический подход к прогнозированию, проклятие размерности, переобучение| [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML4-metric.pdf) |
 | 4.10.2023 | 5 | Контроль качества и выбор модели | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML5-control.pdf) | 
 | 11.10.2023 | 6 | Методы оптимизации для задач машинного обучения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML6-opt.pdf) | 
-
+| 18.10.2023 | 7 | Линейные модели регрессии, МНК и отбор признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML7-Reg.pdf) | 
 
 
