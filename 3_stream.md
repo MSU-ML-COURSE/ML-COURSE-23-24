@@ -12,5 +12,6 @@
 | 4.10.2023 | 5 | Контроль качества и выбор модели | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML5-control.pdf) | 
 | 11.10.2023 | 6 | Методы оптимизации для задач машинного обучения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML6-opt.pdf) | 
 | 18.10.2023 | 7 | Линейные модели регрессии, МНК и отбор признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML7-Reg.pdf) | 
+| 25.10.2023 | 8 | Линейные модели регрессии, регуляризация, преобразование пространства признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML8-Reg.pdf) | 
 
 
