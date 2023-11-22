@@ -15,4 +15,4 @@
 | 25.10.2023 | 8 | Линейные модели регрессии, регуляризация, преобразование пространства признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML8-Reg.pdf) | 
 | 1.11.2023 | 9 | Обобщенные линейные модели, логистическая регрессия | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML9-GLM.pdf) | 
 | 8.11.2023 | 10 | Задача классификации. Оценка качества моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML10-CLassQual.pdf) | 
-
+| 22.11.2023 | 11 | Методы опорных векторов (начало) | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML11-SVM.pdf) | 
