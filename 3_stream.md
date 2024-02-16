@@ -17,4 +17,4 @@
 | 8.11.2023 | 10 | Задача классификации. Оценка качества моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML10-CLassQual.pdf) | 
 | 22.11.2023, 29.11.2023, 5.12.2023 | 11 | Методы опорных векторов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML11-SVM.pdf) | 
 | 5.12.2023, 13.12.2023, 20.12.2023 | 12 | Деревья решений | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML12-Tree.pdf) | 
-| 7.02.2024, 14.02.2024  | 12 | Ансамбли моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML13-Ensembles.pdf) | 
+| 7.02.2024, 14.02.2024  | 13 | Ансамбли моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML13-Ensembles.pdf) | 
