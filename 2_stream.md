@@ -11,14 +11,14 @@
 | 19.09.2023 | 3 | Линейная классификация и стохастический градиент | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-lin-sg.pdf) |
 | 26.09.2023 | 4 | Многомерная линейная регрессия и метод главных компонент | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-lin-regr.pdf) |
 | 10.10.2023 | 5 | Нелинейная регрессия | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-nonlin-regr.pdf) |
-| 17.10.2023 | 6 | Метод опорных векторов | Слайды |
-| 24.10.2023 | 7 | Критерии качества и выбор моделей | Слайды |
-| 31.10.2023 | 8 | Оценивание плотностей распределения  | Слайды |
-| 07.11.2023 | 9 | Байесовская теория классификации | Слайды |
-| 14.11.2023 | 10 | Методы отбора признаков | Слайды |
-| 21.11.2023 | 11 | Логические методы классификации | Слайды |
-| 28.11.2023 | 12 | Линейные ансамбли | Слайды |
-| 05.12.2023 | 13 | Продвинутые методы ансамблирования | Слайды |
+| 17.10.2023 | 6 | Метод опорных векторов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-svm.pdf) |
+| 24.10.2023 | 7 | Критерии качества и выбор моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-qual.pdf) |
+| 31.10.2023 | 8 | Оценивание плотностей распределения  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-density.pdf) |
+| 07.11.2023 | 9 | Байесовская теория классификации | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-bayes.pdf) |
+| 14.11.2023 | 10 | Методы отбора признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-featuresel.pdf) |
+| 21.11.2023 | 11 | Логические методы классификации | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-logic.pdf) |
+| 28.11.2023 | 12 | Линейные ансамбли | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-compos1.pdf) |
+| 05.12.2023 | 13 | Продвинутые методы ансамблирования | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu23-compos2.pdf) |
 | 12.12.2023 | 14 | Инкрементное и онлайновое обучение, адаптивные методы краткосрочного прогнозирования | Слайды |
 | 19.12.2023 | 15 | Обзор постановок оптимизационных задач машинного обучения | Слайды |
 
