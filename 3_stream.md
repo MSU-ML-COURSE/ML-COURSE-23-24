@@ -22,4 +22,4 @@
 
 | Дата | Номер | Тема | Презентация |
 | :---: | :---: | --- | --- |
-| 7.02.2024, 14.02.2024, 21.02.2024  | 13 | Ансамбли моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML13-Ensembles.pdf) | 
+| 7.02.2024, 14.02.2024, 21.02.2024, 28.02.2024  | 13 | Ансамбли моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML13-Ensembles.pdf) | 
