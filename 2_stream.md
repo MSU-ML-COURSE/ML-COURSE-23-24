@@ -27,3 +27,5 @@
 | Дата | Номер | Тема | Презентация |
 | :---: | :---: | --- | --- |
 | 13.02.2024 | 16 | Кластеризация и частичное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-cluster.pdf) |
+| 20.02.2024 | 17 | Обучение без учителя: векторизация данных | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-vectorize.pdf) |
+| 27.02.2024 | 18 | Обучение без учителя: векторизация графовых и текстовых данных | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-graph-text.pdf) |
