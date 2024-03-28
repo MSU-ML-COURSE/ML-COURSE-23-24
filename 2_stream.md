@@ -29,3 +29,8 @@
 | 13.02.2024 | 16 | Кластеризация и частичное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-cluster.pdf) |
 | 20.02.2024 | 17 | Обучение без учителя: векторизация данных | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-vectorize.pdf) |
 | 27.02.2024 | 18 | Обучение без учителя: векторизация графовых и текстовых данных | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-graph-text.pdf) |
+| 05.03.2024 | 19 | Обучение без учителя: байесовское обучение, ЕМ, тематическое моделирование | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-bayes-latent.pdf) |
+| 12.03.2024 | 20 | Вероятностное тематическое моделирование. Небайесовская регуляризация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-tm.pdf) |
+| 19.03.2024 | 21 | Матричные разложения и рекомендательные системы | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-rs-mf.pdf) |
+| 26.03.2024 | 22 | Обучение ранжированию | |
+
