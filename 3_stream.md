@@ -26,4 +26,4 @@
 | 6.03.2024  | 14 | Восстановление плотности распределения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML14-KDE+EM.pdf) | 
 | 13.03.2024, 20.03.2024 | 15 | Кластеризация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML15-Clustering.pdf) | 
 | 27.03.2024 | 16 | Частичное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML16-SemiSupervised.pdf) | 
-| 3.04.2024 | 17 | Методы Байеса | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML17-Bayes.pdf) | 
+| 3.04.2024, 17.04.2024 | 17 | Методы Байеса | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/3_stream/ML17-Bayes.pdf) | 
