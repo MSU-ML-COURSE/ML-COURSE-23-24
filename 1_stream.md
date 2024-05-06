@@ -35,5 +35,9 @@
 | 10.04.2024 | 23 | Ранжирование (методы, меры качества) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) |
 | 17.04.2024 | 24 | Сингулярное разложение. Рекомендательные системы 1 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) | 
 | 24.04.2024 | 25 | Рекомендательные системы 2 | [Слайды](https://github.com/victorkitov/ML/blob/main/250-Recommender%20systems.pdf) | 
-| 15.05.2024 | 26 | Активное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/260-Active%20learning.pdf) | 
+| 27.04.2024 | 26 | Активное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/260-Active%20learning.pdf) | 
+| 27.04.2024 | 27 | Интерпретируемое машинное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/270-Interpretable%20ML.pdf) | 
+
+
+
 
