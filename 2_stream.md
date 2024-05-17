@@ -32,5 +32,9 @@
 | 05.03.2024 | 19 | Обучение без учителя: байесовское обучение, ЕМ, тематическое моделирование | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-bayes-latent.pdf) |
 | 12.03.2024 | 20 | Вероятностное тематическое моделирование. Небайесовская регуляризация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-tm.pdf) |
 | 19.03.2024 | 21 | Матричные разложения и рекомендательные системы | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-rs-mf.pdf) |
-| 26.03.2024 | 22 | Обучение ранжированию | |
+| 26.03.2024 | 22 | Обучение ранжированию | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-ranking.pdf) |
+| 02.04.2024 | 23 | Поиск ассоциативных правил | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-assoc.pdf) |
+| 09.04.2024 | 24 | Робастное оценивание и детектирование аномалий | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-outlier.pdf) |
+| 16.04.2024 | 25 | Активное обучение и краудсорсинг | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-active.pdf) |
+| 23.04.2024 | 26 | Обучение с подкреплением | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-23-24/blob/main/slides/2_stream/msu24-reinforce.pdf) |
 
